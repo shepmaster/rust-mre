@@ -57,3 +57,19 @@ There's also some information that you should provide about your code:
 
 [mre]: https://stackoverflow.com/help/minimal-reproducible-example
 [play]: https://play.rust-lang.org/
+
+# Other locations
+
+This document is also available on Stack Overflow as part of the [Rust
+tag][rust-tag]'s [information page][tag-info].
+
+[rust-tag]: https://stackoverflow.com/tags/rust
+[tag-info]: https://stackoverflow.com/tags/rust/info
+
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+  <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+</a>
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
